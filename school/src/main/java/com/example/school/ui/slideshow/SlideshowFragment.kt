@@ -18,6 +18,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import com.example.school.PortalHome
 import com.example.school.R
+import com.example.school.ResultsActivity
 import com.google.firebase.auth.FirebaseAuth
 
 class SlideshowFragment : Fragment() {
